@@ -1,6 +1,6 @@
 name: Lily
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.75733
 typography_spectrum: 0
 title: Lily the Comic Strip
 cta:
@@ -24,6 +24,6 @@ color:
     - '#bf007e'
   brandStrength: 1
   lightness: 1
-  saturation: 0.5625
-  rhythmicContrast: 0.5
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
