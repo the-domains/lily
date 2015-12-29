@@ -1,7 +1,7 @@
 name: Lily
 favicon: null
-layout_spectrum: 0.9731447482481599
-typography_spectrum: 0.47981045860797167
+layout_spectrum: 0
+typography_spectrum: 0
 title: Lily the Comic Strip
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.6085566806141287
-  lightness: 0.1866754423826933
-  saturation: 0.021876483457162976
-  rhythmicContrast: 0.6066293811891228
+    - '#ffffff'
+    - '#f6ce1e'
+    - '#96a673'
+    - '#5b4490'
+    - '#bf007e'
+  brandStrength: 0.625
+  lightness: 0.625
+  saturation: 0.625
+  rhythmicContrast: 0.5
 purpose: []
